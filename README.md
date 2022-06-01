@@ -3,6 +3,8 @@
 # test_repo
 
 ## Names
-James Kabbes, David An, Ed Tomlins, Xander Pero
 
-Jacob Chang
+
+
+James Kabbes, David An, Ed Tomlins, Xander Pero, Zakaria Sadoun, Will Tegge, Emily Ho, Jacob Chang
+

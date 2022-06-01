@@ -1,0 +1,1 @@
+print ('Congratulations, you are able to run a Python script')

@@ -5,4 +5,4 @@
 ## Names
 James Kabbes, David An, Ed Tomlins, Xander Pero
 
-Jacob
+Jacob Chang

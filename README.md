@@ -6,6 +6,6 @@
 
 
 
-James Kabbes, David An, Ed Tomlins, Xander Pero, Zakaria Sadoun, Will Tegge, Emily Ho, Jacob Chang, Myles Ream, Jack Aubry,Jash Parekh, George Atkins
+James Kabbes, David An, Ed Tomlins, Xander Pero, Zakaria Sadoun, Will Tegge, Emily Ho, Jacob Chang, Myles Ream, Jack Aubry,Jash Parekh, George Atkins, Ritika Patel
 
 

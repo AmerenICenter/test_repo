@@ -6,5 +6,5 @@
 
 
 
-James Kabbes, David An, Ed Tomlins, Xander Pero, Zakaria Sadoun, Will Tegge, Emily Ho, Jacob Chang
+James Kabbes, David An, Ed Tomlins, Xander Pero, Zakaria Sadoun, Will Tegge, Emily Ho, Jacob Chang, Myles Ream
 

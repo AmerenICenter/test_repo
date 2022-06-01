@@ -3,6 +3,4 @@
 # test_repo
 
 ## Names
-James Kabbes, David An, Ed Tomlins
-
-
+James Kabbes, David An, Ed Tomlins, Xander Pero

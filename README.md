@@ -3,7 +3,6 @@
 # test_repo
 
 ## Names
-James Kabbes
-David An
+James Kabbes, David An
 
 

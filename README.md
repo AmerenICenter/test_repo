@@ -3,4 +3,4 @@
 # test_repo
 
 ## Names
-James Kabbes, David An, Ed Tomlins, Xander Pero, Zakaria Sadoun
+James Kabbes, David An, Ed Tomlins, Xander Pero, Zakaria Sadoun, Will Tegge

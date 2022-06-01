@@ -4,4 +4,7 @@
 
 ## Names
 
-James Kabbes, David An, Ed Tomlins, Xander Pero, Zakaria Sadoun, Will Tegge, Emily Ho
+
+
+James Kabbes, David An, Ed Tomlins, Xander Pero, Zakaria Sadoun, Will Tegge, Emily Ho, Jacob Chang
+
